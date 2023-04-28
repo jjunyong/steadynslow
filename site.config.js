@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "steadynslow",
+    title: "SteadynSlow",
     description: "welcome to morethan-log!",
     theme: "light", // ['light', 'dark', 'auto']
   },
